@@ -1,4 +1,6 @@
+## Deployed to linode at:
 
+http://172.104.5.134/
 
 # What is this?
 I started learning about WordPress and PHP by starting a project for a restaurant website. There is a chinese restaurant that I go occassionally for cheap food and I notice that they do not have a main homepage for their restaurant. I wanted to create a website for them and display their menus and contact information and images of their food.
